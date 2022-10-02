@@ -34,7 +34,7 @@ Circuito en Físico:
 
 [![Circuito-en-fisico-ultrasonico.jpg](https://i.postimg.cc/g2XsCgFf/Circuito-en-fisico-ultrasonico.jpg)](https://postimg.cc/4YGptb35)
 
-Video con explicación para del ejercicio:
+Video con explicación para el ejercicio:
 
 
 https://youtu.be/tKJdwqntwHM 
