@@ -34,6 +34,13 @@ Circuito en Físico:
 
 [![Circuito-en-fisico-ultrasonico.jpg](https://i.postimg.cc/g2XsCgFf/Circuito-en-fisico-ultrasonico.jpg)](https://postimg.cc/4YGptb35)
 
+
+Terminal mostrando valores:
+
+
+[![terminal-con-valores.png](https://i.postimg.cc/BQQ4BK98/terminal-con-valores.png)](https://postimg.cc/bdM7zdv8)
+
+
 Video con explicación para el ejercicio:
 
 
